@@ -1,2 +1,3 @@
 # Verificador-de-idade
  
+Você digita a idade e seleciona o sexo e aparece umas foto aí...
