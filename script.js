@@ -17,7 +17,7 @@ function verificar() {
             genero = 'Homem'
             if (idade >= 0 && idade < 10) {
                 // criança
-                img.setAttribute('src', 'f-menino.png')
+                img.setAttribute('src', 'f-menino.png') // Da um atributo ao elemento, neste caso, é o 'src',que recebe o valor 'f-feminino.png'
             } else if (idade <= 21) {
                 // jovem
                 img.setAttribute('src', 'f-jovem-h.png')
