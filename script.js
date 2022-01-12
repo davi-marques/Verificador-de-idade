@@ -46,6 +46,6 @@ function verificar() {
         }
         res.style.textAlign = 'center'
         res.innerHTML = `Detectamos ${genero} com ${idade} anos.`
-        res.appendChild(img) // Adiciona o resultado a mais
+        res.appendChild(img) // Adiciona um elemento
     }
 }
